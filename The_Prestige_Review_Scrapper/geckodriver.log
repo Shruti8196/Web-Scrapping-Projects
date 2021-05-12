@@ -1,0 +1,72 @@
+1620402671089	geckodriver	INFO	Listening on 127.0.0.1:58517
+1620402674164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shrut\\AppData\\Local\\Temp\\rust_mozprofileksOlcz"
+1620402676136	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620402679558	Marionette	INFO	Listening on port 58527
+1620402683343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620403186216	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1620405460617	Marionette	INFO	Stopped listening on port 58527
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+20402690665	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620402693953	Marionette	INFO	Listening on port 58576
+1620402694351	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620402768309	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1620403200733	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1620405460175	Marionette	INFO	Stopped listening on port 58576
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+20403047810	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620403052085	Marionette	INFO	Listening on port 57896
+1620403052516	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620405459649	Marionette	INFO	Stopped listening on port 57896
+0404506983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shrut\\AppData\\Local\\Temp\\rust_mozprofile9U5C9n"
+1620404507433	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620404510613	Marionette	INFO	Listening on port 62512
+1620404510671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620405459219	Marionette	INFO	Stopped listening on port 62512
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shrut\\AppData\\Local\\Temp\\rust_mozprofileK37XFj"
+1620404577219	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620404581119	Marionette	INFO	Listening on port 62660
+1620404581301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620405458740	Marionette	INFO	Stopped listening on port 62660
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shrut\\AppData\\Local\\Temp\\rust_mozprofileOyWPwk"
+1620404736130	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620404739414	Marionette	INFO	Listening on port 62849
+1620404739880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620405458227	Marionette	INFO	Stopped listening on port 62849
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shrut\\AppData\\Local\\Temp\\rust_mozprofile1v9lj6"
+1620404768787	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620404772229	Marionette	INFO	Listening on port 62962
+1620404772553	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620405457679	Marionette	INFO	Stopped listening on port 62962
+0404869590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\shrut\\AppData\\Local\\Temp\\rust_mozprofilew7K6N6"
+1620404870347	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620404874247	Marionette	INFO	Listening on port 63124
+1620404874412	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620405457032	Marionette	INFO	Stopped listening on port 63124
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
