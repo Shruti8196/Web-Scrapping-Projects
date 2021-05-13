@@ -1,4 +1,4 @@
-# Scrapping the Most Popular Stack Overflow Tags
+# Scrapping most popular Stack Overflow tags
 
 ## Table of Contents
 
