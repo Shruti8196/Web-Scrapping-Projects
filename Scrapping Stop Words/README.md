@@ -20,7 +20,8 @@ https://www.ranks.nl/stopwords
 
 
 **Data Collected Contains-**
-A mixed list of stopwords containing-
+
+A mixed list of stopwords containing
 1. Default English Stopwords
 2. MySQL Stopwords
 3. Google History Stopwords
