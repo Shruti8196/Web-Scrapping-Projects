@@ -1,4 +1,4 @@
-# Scrapping the Amazon Best Sellers in Books
+# Scrapping the Most Popular Stack Overflow Tags
 
 ## Table of Contents
 
@@ -30,8 +30,9 @@ The data is collected into an excel file.
 ## Libraries Used
 
 1. Beautiful Soup - For getting data out of the webpage.
-2. UrlLib - For URL Handling
-3. Pandas - For saving the data into file.
+2. Selenium - For Web Automation
+3. UrlLib - For URL Handling
+4. Pandas - For saving the data into file.
 
 ## Tableau Story
 
