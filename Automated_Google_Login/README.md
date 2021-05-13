@@ -1,4 +1,4 @@
-# Automating Google Login 
+# Automated Google Login 
 
 ## Table of Contents
 
