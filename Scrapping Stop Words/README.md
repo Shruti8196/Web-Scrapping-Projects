@@ -28,7 +28,10 @@ A mixed list of stopwords containing
 4. Long List of Stopwords
 
 The points mentioned above are the 4 tables in the site provided. The words from 4 of them might have common stop words, so we would drop the duplicates and finally save
-the stopwords into a csv file.
+the stopwords into a txt file.
+
+[Stopwords.txt](https://github.com/Shruti8196/Web-Scrapping-Projects/files/6472921/Stopwords.txt)
+
 
 ## Libraries Used
 
