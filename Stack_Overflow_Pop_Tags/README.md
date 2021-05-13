@@ -4,7 +4,7 @@
 
 1. [Overview](#overview)
 2. [Libraries Used](#libraries-used)
-3. [Tableau Dashboard](#tableau-story)
+3. [Tableau Story](#tableau-story)
 
 ## Overview
 
