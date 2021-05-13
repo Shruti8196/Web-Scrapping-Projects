@@ -60,7 +60,7 @@ def job():
 
         })
     Top_50_BestSellers.set_index("Rank",inplace=True)
-    Top_50_BestSellers.to_excel(r"C:\Users\shrut\Web_Scrapping_Projects\Top_50_Amazon_Best_Sellers_in_Books\Top_50_BestSellers.xlsx")
+    Top_50_BestSellers.to_excel(r"C:\Users\shrut\Web_Scrapping_Projects\Amazon_Best_Sellers_in_Books\Top_50_BestSellers.xlsx")
 
     print("Update Successful")
 
