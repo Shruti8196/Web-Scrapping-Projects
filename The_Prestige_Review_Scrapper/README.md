@@ -22,7 +22,7 @@ The data is collected into a text file. This data can be used for sentimaental a
 ## Libraries Used
 
 1. Beautiful Soup - For getting data out of the webpage.
-2. Selenium - For browser automation, loading/scrolling the reviews until the end of the page.
+2. Selenium - For browser automation, loading/scrolling the reviews till the end is reached.
 4. Pandas - For saving the data into file.
 
 ## Video Demonstration
