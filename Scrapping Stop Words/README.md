@@ -30,9 +30,6 @@ A mixed list of stopwords containing
 The points mentioned above are the 4 tables in the site provided. The words from 4 of them might have common stop words, so we would drop the duplicates and finally save
 the stopwords into a txt file.
 
-
-
-
 ## Libraries Used
 
 1. Beautiful Soup - For fetching data out of the webpage.
