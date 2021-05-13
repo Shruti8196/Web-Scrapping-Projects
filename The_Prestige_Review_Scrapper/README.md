@@ -8,31 +8,22 @@
 
 ## Overview
 
-This project aims at fetching 50 Amazon Best Sellers in Books. There is an application inside the dist folder which on double click executes the script and updates the file
-that contains the information collected on books.
+This project aims at getting user reviews from a movie named "The Prestige"
 
 The url used is- 
 
-https://www.amazon.in/gp/bestsellers/books
-
-![](https://github.com/Shruti8196/Web-Scrapping-Projects/blob/master/Amazon_Best_Sellers_in_Books/Amazon%20Best%20Sellers.jpg)
+https://www.imdb.com/title/tt0482571/reviews
 
 
-**Data Collected Contains-**
+**Data Collected Contains- USER REVIEWS**
 
-1. Rank
-2. Book Title
-3. Ratings out of 5
-4. #Num of Ratings Received
-
-The data is collected into an excel file.
-![](https://github.com/Shruti8196/Web-Scrapping-Projects/blob/master/Amazon_Best_Sellers_in_Books/Excel_Data.jpg)
+The data is collected into a text file. This data can be used for sentimaental analysis. A short demonstration of how to use the data is shown in the notebook as well.
 
 ## Libraries Used
 
 1. Beautiful Soup - For getting data out of the webpage.
-2. UrlLib - For URL Handling
-3. Pandas - For saving the data into file.
+2. Selenium - For browser automation, loading/scrolling the reviews until the end of the page.
+4. Pandas - For saving the data into file.
 
 ## Video Demonstration
 
